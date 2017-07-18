@@ -1,0 +1,4 @@
+#-*-shell-script-*-
+
+export SHELL=/bin/bash
+export PATH=$PATH:/opt/guild_VERSION_linux_x86_64/bin
